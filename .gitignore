@@ -1,0 +1,13 @@
+# Arquivos gerados - não subir
+projeto-1-pp.xlsx
+relatorio_final.xlsx
+*.tmp.xlsx
+
+# Manter só a entrada
+!dados_brutos.xlsx
+
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
