@@ -1,16 +1,19 @@
 # Projeto 1 - Automatizador de Planilhas
 
-### O Problema
-Planilha com nomes duplicados, com espaço, maiúsculas erradas e valores vazios.
+Automatiza tarefas repetitivas de Excel usando Python e Pandas.
 
-### O que o código faz
-- Limpa espaços e arruma nomes
-- Remove duplicados
-- Troca vazio por 0
-- Gera arquivo novo limpo
+## Tecnologias
+- Python
+- Pandas
+- OpenPyXL
+- Git/GitHub
 
-### Resultado
-Antes: 5 linhas bagunçadas
-Depois: 4 linhas limpas
+## O que faz
+Lê planilhas, limpa dados e gera relatórios automaticamente.
 
-Tecnologias: Python + Pandas
+## Como rodar
+pip install pandas openpyxl
+python main.py
+
+## Autor
+Brandel Santos - Manaus/AM
